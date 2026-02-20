@@ -115,7 +115,6 @@ gantt
 
     %%section ISMAR
     %%ISMAR '26 :ismar26-review, 2026-03-16, 98d
-
 ```
 
 \* Note: Starting from 2026, ATC will be organized by ACM SIGOPS, and the updated CFP has not been released yet.
