@@ -84,7 +84,7 @@ gantt
     EuroSys '27²† :eurosys27-review2, 2026-09-25, 127d
 
     section PACT
-    PACT '26† :pact26-review, 2026-04-20, 95d
+    PACT '26 :pact26-review, 2026-04-24, 103d
 
     section ICDCS
     ICDCS '27† :icdcs27-review, 2026-12-18, 105d
@@ -111,10 +111,10 @@ gantt
     MM '27 :mm27-review, 2026-04-01, 99d
 
     section VR
-    VR '27† :vr27-review, 2026-09-15, 94d
+    VR '27† :vr27-review, 2026-09-12, 133d
 
     section ISMAR
-    ISMAR '27† :ismar27-review, 2026-03-15, 102d
+    ISMAR '26 :ismar26-review, 2026-03-16, 98d
 
 ```
 
@@ -146,7 +146,7 @@ gantt
 | ASPLOS '27¹ | 2026-04-15 | 2026-07-27 | https://www.asplos-conference.org/asplos2026/cfp.html |
 | ASPLOS '27² | 2026-09-09 | 2026-12-21 | https://www.asplos-conference.org/asplos2026/cfp.html |
 | ATC '26† | 2026-01-14 | 2026-04-25 |  |
-| PACT '26† | 2026-04-20 | 2026-07-24 |  |
+| PACT '26† | 2026-04-20 | 2026-07-24 | https://pact2026.github.io/index |
 | ICDCS '27† | 2026-12-18 | 2027-04-02 |  |
 | EuroSys '27¹† | 2026-05-15 | 2026-08-22 |  |
 | EuroSys '27²† | 2026-09-25 | 2027-01-30 |  |
@@ -155,11 +155,11 @@ gantt
 | ICCAD '26 | 2026-04-14 | 2026-07-11 | https://iccad.com/2026/authors/call-for-papers/ |
 | DAC '27† | 2026-11-19 | 2027-02-28 |  |
 | MM '27 | 2026-04-01 | 2026-07-09 | https://2026.acmmm.org/site/important-dates.html |
-| ISMAR '27† | 2026-03-15 | 2026-06-25 |  |
-| VR '27† | 2026-09-15 | 2026-12-18 |  |
+| VR '27† | 2026-09-12 | 2027-01-23 |  |
+| ISMAR '26 | 2026-03-16 | 2026-06-22 | https://www.ieeeismar.net/2026/ |
 
 
 
-### My Go-To CS Conference Rankings
+### My Go-To Top CS Conference Lists
 * [CSRankings](https://csrankings.org/)
 * [Institutional Guidelines in South Korea (KIISE/NRF BK21+/Universities)](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
