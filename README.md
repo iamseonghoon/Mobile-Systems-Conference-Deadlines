@@ -106,6 +106,12 @@ gantt
     %% --------------------------
     section MM
     MM '27 :mm27-review, 2026-04-01, 99d
+
+   section VR
+   VR '27† :vr27-review, 2026-09-12, 133d
+
+   section ISMAR
+   ISMAR '26 :ismar26-review, 2026-03-16, 98d
 ```
 
 
