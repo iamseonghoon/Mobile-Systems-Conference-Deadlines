@@ -83,8 +83,8 @@ gantt
     EuroSys '27¹† :eurosys27-review1, 2026-05-15, 99d
     EuroSys '27²† :eurosys27-review2, 2026-09-25, 127d
 
-    section PACT
-    PACT '26 :pact26-review, 2026-04-24, 103d
+    %%section PACT
+    %%PACT '26 :pact26-review, 2026-04-24, 103d
 
     section ICDCS
     ICDCS '27† :icdcs27-review, 2026-12-18, 105d
@@ -110,11 +110,11 @@ gantt
     section MM
     MM '27 :mm27-review, 2026-04-01, 99d
 
-    section VR
-    VR '27† :vr27-review, 2026-09-12, 133d
+    %%section VR
+    %%VR '27† :vr27-review, 2026-09-12, 133d
 
-    section ISMAR
-    ISMAR '26 :ismar26-review, 2026-03-16, 98d
+    %%section ISMAR
+    %%ISMAR '26 :ismar26-review, 2026-03-16, 98d
 
 ```
 
