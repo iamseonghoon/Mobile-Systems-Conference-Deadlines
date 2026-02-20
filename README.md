@@ -83,6 +83,9 @@ gantt
     EuroSys '27¹† :eurosys27-review1, 2026-05-15, 99d
     EuroSys '27²† :eurosys27-review2, 2026-09-25, 127d
 
+    section ICDCS
+    ICDCS '27† :icdcs27-review, 2026-12-18, 105d
+
     %% --------------------------
     %% Embedded / EDA
     %% --------------------------
@@ -97,9 +100,6 @@ gantt
 
     section DAC
     DAC '27† :dac27-review, 2026-11-19, 99d
-
-    section ICDCS
-    ICDCS '27† :icdcs27-review, 2026-12-18, 105d
 
     %% --------------------------
     %% Multimedia
