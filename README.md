@@ -76,18 +76,12 @@ gantt
     ASPLOS '27¹ :asplos27-review1, 2026-04-15, 103d
     ASPLOS '27² :asplos27-review2, 2026-09-09, 103d
 
-    section ATC
+    section ATC*
     ATC '26† :atc26-review, 2026-01-14, 101d
 
     section EuroSys
     EuroSys '27¹† :eurosys27-review1, 2026-05-15, 99d
     EuroSys '27²† :eurosys27-review2, 2026-09-25, 127d
-
-    %%section PACT
-    %%PACT '26 :pact26-review, 2026-04-24, 103d
-
-    section ICDCS
-    ICDCS '27† :icdcs27-review, 2026-12-18, 105d
 
     %% --------------------------
     %% Embedded / EDA
@@ -104,18 +98,16 @@ gantt
     section DAC
     DAC '27† :dac27-review, 2026-11-19, 99d
 
+    section ICDCS
+    ICDCS '27† :icdcs27-review, 2026-12-18, 105d
+
     %% --------------------------
-    %% Multimedia, AR/VR/XR
+    %% Multimedia
     %% --------------------------
     section MM
     MM '27 :mm27-review, 2026-04-01, 99d
-
-    %%section VR
-    %%VR '27† :vr27-review, 2026-09-12, 133d
-
-    %%section ISMAR
-    %%ISMAR '26 :ismar26-review, 2026-03-16, 98d
 ```
+
 
 \* Note: Starting from 2026, ATC will be organized by ACM SIGOPS, and the updated CFP has not been released yet.
 
