@@ -60,8 +60,9 @@ gantt
     INFOCOM '27* :infocom27-review, 2026-07-31, 130d
 
     section CoNEXT
-    CoNEXT '27¹* :conext27-review1, 2026-12-12, 109d
-    CoNEXT '26²* :conext26-review2, 2026-06-05, 103d
+    CoNEXT '26² :conext26-review2, 2026-06-05, 98d
+    CoNEXT '27¹* :conext27-review1, 2026-12-12, 110d
+    
 
     %% --------------------------
     %% OS, CA
@@ -137,8 +138,8 @@ gantt
 | NSDI '27¹ | 2026-04-23 | 2026-07-23 | https://www.usenix.org/conference/nsdi27/call-for-papers |
 | NSDI '27² | 2026-09-17 | 2026-12-08 | https://www.usenix.org/conference/nsdi27/call-for-papers |
 | INFOCOM '27* | 2026-07-31 | 2026-12-08 |  |
-| CoNEXT '27¹* | 2026-12-12 | 2027-04-05 |  |
-| CoNEXT '26²* | 2026-06-05 | 2026-09-15 |  |
+| CoNEXT '26²* | 2026-06-05 | 2026-09-11 | https://conferences.sigcomm.org/co-next/2026/#!/cfp |
+| CoNEXT '27¹* | 2026-12-12 | 2027-03-31 |  |
 | SOSP '26 | 2026-04-01 | 2026-07-03 | https://sigops.org/s/conferences/sosp/2026/cfp.html |
 | OSDI '27* | 2026-12-11 | 2027-03-26 |  |
 | ASPLOS '27¹ | 2026-04-15 | 2026-07-27 | https://www.asplos-conference.org/asplos2026/cfp.html |
